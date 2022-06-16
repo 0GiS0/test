@@ -1,0 +1,3 @@
+
+    location = "westeurope"
+    prefix="kiko"
