@@ -1,2 +1,0 @@
-location = "westeurope"
-prefix="kiko"
